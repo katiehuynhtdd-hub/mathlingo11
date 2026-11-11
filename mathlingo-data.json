@@ -6,187 +6,199 @@
       "id": 1,
       "chapter": 1,
       "vi": "Giá trị lượng giác của góc lượng giác",
-      "name": "Lesson 1 Giá trị lượng giác của góc lượng giác"
+      "name": "Lesson 1: Trigonometric Values of Directed Angles"
     },
     {
       "id": 2,
       "chapter": 1,
       "vi": "Công thức lượng giác",
-      "name": "Lesson 2 Công thức lượng giác"
+      "name": "Lesson 2: Trigonometric Formulas"
     },
     {
       "id": 3,
       "chapter": 1,
       "vi": "Hàm số lượng giác",
-      "name": "Lesson 3 Hàm số lượng giác"
+      "name": "Lesson 3: Trigonometric Functions"
     },
     {
       "id": 4,
       "chapter": 1,
       "vi": "Phương trình lượng giác cơ bản",
-      "name": "Lesson 4 Phương trình lượng giác cơ bản"
+      "name": "Lesson 4: Basic Trigonometric Equations"
     },
     {
       "id": 5,
       "chapter": 2,
       "vi": "Dãy số",
-      "name": "Lesson 5 Dãy số"
+      "name": "Lesson 5: Sequences"
     },
     {
       "id": 6,
       "chapter": 2,
       "vi": "Cấp số cộng",
-      "name": "Lesson 6 Cấp số cộng"
+      "name": "Lesson 6: Arithmetic sequences"
     },
     {
       "id": 7,
       "chapter": 2,
       "vi": "Cấp số nhân",
-      "name": "Lesson 7 Cấp số nhân"
+      "name": "Lesson 7: Geometric sequences"
     },
     {
       "id": 8,
       "chapter": 3,
       "vi": "Mẫu số liệu ghép nhóm",
-      "name": "Lesson 8 Mẫu số liệu ghép nhóm"
+      "name": "Lesson 8: Grouped Data"
     },
     {
       "id": 9,
       "chapter": 3,
       "vi": "Các số đặc trưng đo xu thế trung tâm",
-      "name": "Lesson 9 Các số đặc trưng đo xu thế trung tâm"
+      "name": "Lesson 9: Measures of Central Tendency"
     },
     {
       "id": 10,
       "chapter": 4,
       "vi": "Đường thẳng và mặt phẳng trong không gian",
-      "name": "Lesson 10 Đường thẳng và mặt phẳng trong không gian"
+      "name": "Lesson 10: Lines and Planes in Space"
     },
     {
       "id": 11,
       "chapter": 4,
       "vi": "Hai đường thẳng song song",
-      "name": "Lesson 11 Hai đường thẳng song song"
+      "name": "Lesson 11: Parallel Lines in Space"
     },
     {
       "id": 12,
       "chapter": 4,
-      "vi": "Đường thẳng và mặt phẳng song song Hai mặt phẳng song song",
-      "name": "Lesson 12 và 13 Đường thẳng và mặt phẳng song song Hai mặt phẳng song song"
+      "vi": "Đường thẳng và mặt phẳng song song",
+      "name": "Lesson 12: Lines Parallel to Planes"
     },
     {
       "id": 13,
       "chapter": 4,
       "vi": "Phép chiếu song song",
-      "name": "Lesson 14 Phép chiếu song song"
+      "name": "Lesson 14: Parallel Projection"
     },
     {
       "id": 14,
       "chapter": 5,
       "vi": "Giới hạn của dãy số",
-      "name": "Lesson 15 Giới hạn của dãy số"
+      "name": "Lesson 15: Limits of Sequences"
     },
     {
       "id": 15,
       "chapter": 5,
       "vi": "Giới hạn của hàm số",
-      "name": "Lesson 16 Giới hạn của hàm số"
+      "name": "Lesson 16: Limits of Functions"
     },
     {
       "id": 16,
       "chapter": 5,
       "vi": "Hàm số liên tục",
-      "name": "Lesson 17 Hàm số liên tục"
+      "name": "Lesson 17: Continuous Functions"
     },
     {
       "id": 17,
       "chapter": 6,
       "vi": "Lũy thừa với số mũ thực",
-      "name": "Lesson 18 Lũy thừa với số mũ thực"
+      "name": "Lesson 18: Powers with Real Exponents"
     },
     {
       "id": 18,
       "chapter": 6,
       "vi": "Lôgarit",
-      "name": "Lesson 19 Lôgarit"
+      "name": "Lesson 19: Logarithms"
     },
     {
       "id": 19,
       "chapter": 6,
       "vi": "Hàm số mũ và hàm số lôgarit",
-      "name": "Lesson 20 Hàm số mũ và hàm số lôgarit"
+      "name": "Lesson 20: Exponential and Logarithmic Functions"
     },
     {
       "id": 20,
       "chapter": 6,
       "vi": "Phương trình và bất phương trình mũ và lôgarit",
-      "name": "Lesson 21 Phương trình và bất phương trình mũ và lôgarit"
+      "name": "Lesson 21: Exponential and Logarithmic Equations and Inequalities"
     },
     {
       "id": 21,
       "chapter": 7,
-      "vi": "Hai đường thẳng vuông góc Đường thẳng vuông góc với mặt phẳng",
-      "name": "Lesson 22 và 23 Hai đường thẳng vuông góc Đường thẳng vuông góc với mặt phẳng"
+      "vi": "Hai đường thẳng vuông góc",
+      "name": "Lesson 22: Two Perpendicular Lines"
     },
     {
       "id": 22,
       "chapter": 7,
-      "vi": "Phép chiếu vuông góc Góc giữa đường thẳng và mặt phẳng",
-      "name": "Lesson 24 Phép chiếu vuông góc Góc giữa đường thẳng và mặt phẳng"
+      "vi": "Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng",
+      "name": "Lesson 24: Orthogonal Projection and Angle Between a Line and a Plane"
     },
     {
       "id": 23,
       "chapter": 7,
       "vi": "Hai mặt phẳng vuông góc",
-      "name": "Lesson 25 Hai mặt phẳng vuông góc"
+      "name": "Lesson 25: Perpendicular Planes"
     },
     {
       "id": 24,
       "chapter": 7,
       "vi": "Khoảng cách",
-      "name": "Lesson 26 Khoảng cách"
+      "name": "Lesson 26: Distance"
     },
     {
       "id": 25,
       "chapter": 7,
       "vi": "Thể tích",
-      "name": "Lesson 27 Thể tích"
+      "name": "Lesson 27: Volume"
     },
     {
       "id": 26,
       "chapter": 8,
-      "vi": "Biến cố hợp Biến cố giao Biến cố độc lập",
-      "name": "Lesson 28 Biến cố hợp Biến cố giao Biến cố độc lập"
+      "vi": "Biến cố hợp, biến cố giao, biến cố độc lập",
+      "name": "Lesson 28: Union, Intersection, and Independent Events"
     },
     {
       "id": 27,
       "chapter": 8,
       "vi": "Công thức cộng xác suất",
-      "name": "Lesson 29 Công thức cộng xác suất"
+      "name": "Lesson 29: Addition Rule of Probability"
     },
     {
       "id": 28,
       "chapter": 8,
       "vi": "Công thức nhân xác suất cho hai biến cố độc lập",
-      "name": "Lesson 30 Công thức nhân xác suất cho hai biến cố độc lập"
+      "name": "Lesson 30: Multiplication Rule of Probability for Independent Events"
     },
     {
       "id": 29,
       "chapter": 9,
       "vi": "Định nghĩa và ý nghĩa của đạo hàm",
-      "name": "Lesson 31 Định nghĩa và ý nghĩa của đạo hàm"
+      "name": "Lesson 31: Definition and Meaning of Derivatives"
     },
     {
       "id": 30,
       "chapter": 9,
       "vi": "Các quy tắc tính đạo hàm",
-      "name": "Lesson 32 Các quy tắc tính đạo hàm"
+      "name": "Lesson 32: Rules of Differentiation"
     },
     {
       "id": 31,
       "chapter": 9,
       "vi": "Đạo hàm cấp hai",
-      "name": "Lesson 33 Đạo hàm cấp hai"
+      "name": "Lesson 33: Second-Order Derivatives"
+    },
+    {
+      "id": 32,
+      "chapter": 4,
+      "name": "Lesson 13: Parallel Planes",
+      "vi": "Hai mặt phẳng song song"
+    },
+    {
+      "id": 34,
+      "chapter": 7,
+      "name": "Lesson 23: Line Perpendicular to a Plane",
+      "vi": "Đường thẳng vuông góc với mặt phẳng"
     }
   ],
   "vocab": [
@@ -195,81 +207,9 @@
       "lesson": 1,
       "chapter": 1,
       "en": "Directed angle",
-      "vi": "Góc lượng giác, góc có hướng",
+      "vi": "Góc lượng giác",
       "def": "The English term for “Góc lượng giác, góc có hướng” in mathematics.",
       "ex": "Find “Directed angle” in an English mathematics question."
-    },
-    {
-      "id": 2,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Angle measure",
-      "vi": "Số đo góc",
-      "def": "The English term for “Số đo góc” in mathematics.",
-      "ex": "Find “Angle measure” in an English mathematics question."
-    },
-    {
-      "id": 3,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Initial side",
-      "vi": "Tia đầu",
-      "def": "The English term for “Tia đầu” in mathematics.",
-      "ex": "Find “Initial side” in an English mathematics question."
-    },
-    {
-      "id": 4,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Terminal side",
-      "vi": "Tia cuối",
-      "def": "The English term for “Tia cuối” in mathematics.",
-      "ex": "Find “Terminal side” in an English mathematics question."
-    },
-    {
-      "id": 5,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Positive direction",
-      "vi": "Chiều dương",
-      "def": "The English term for “Chiều dương” in mathematics.",
-      "ex": "Find “Positive direction” in an English mathematics question."
-    },
-    {
-      "id": 6,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Negative direction",
-      "vi": "Chiều âm",
-      "def": "The English term for “Chiều âm” in mathematics.",
-      "ex": "Find “Negative direction” in an English mathematics question."
-    },
-    {
-      "id": 7,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Counterclockwise rotation",
-      "vi": "Phép quay ngược chiều kim đồng hồ",
-      "def": "The English term for “Phép quay ngược chiều kim đồng hồ” in mathematics.",
-      "ex": "Find “Counterclockwise rotation” in an English mathematics question."
-    },
-    {
-      "id": 8,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Clockwise rotation",
-      "vi": "Phép quay cùng chiều kim đồng hồ",
-      "def": "The English term for “Phép quay cùng chiều kim đồng hồ” in mathematics.",
-      "ex": "Find “Clockwise rotation” in an English mathematics question."
-    },
-    {
-      "id": 9,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Complete revolution",
-      "vi": "Một vòng quay trọn vẹn",
-      "def": "The English term for “Một vòng quay trọn vẹn” in mathematics.",
-      "ex": "Find “Complete revolution” in an English mathematics question."
     },
     {
       "id": 10,
@@ -290,40 +230,22 @@
       "ex": "π radians equals 180 degrees."
     },
     {
-      "id": 12,
+      "id": 13,
       "lesson": 1,
       "chapter": 1,
-      "en": "Arc",
-      "vi": "Cung tròn",
-      "def": "The English term for “Cung tròn” in mathematics.",
-      "ex": "Find “Arc” in an English mathematics question."
-    },
-    {
-      "id": 14,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Radius",
-      "vi": "Bán kính",
-      "def": "The English term for “Bán kính” in mathematics.",
-      "ex": "Find “Radius” in an English mathematics question."
+      "en": "Arc length",
+      "vi": "Độ dài cung tròn",
+      "def": "The English term for “Độ dài cung tròn” in mathematics.",
+      "ex": "Find “Arc length” in an English mathematics question."
     },
     {
       "id": 15,
       "lesson": 1,
       "chapter": 1,
       "en": "Unit circle",
-      "vi": "Đường tròn đơn vị; đường tròn lượng giác trong ngữ cảnh bài",
+      "vi": "Đường tròn lượng giác",
       "def": "The English term for “Đường tròn đơn vị; đường tròn lượng giác trong ngữ cảnh bài” in mathematics.",
       "ex": "Find “Unit circle” in an English mathematics question."
-    },
-    {
-      "id": 16,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Coordinate axes",
-      "vi": "Các trục tọa độ",
-      "def": "The English term for “Các trục tọa độ” in mathematics.",
-      "ex": "Find “Coordinate axes” in an English mathematics question."
     },
     {
       "id": 17,
@@ -398,15 +320,6 @@
       "ex": "Find “Chasles’ relation” in an English mathematics question."
     },
     {
-      "id": 25,
-      "lesson": 1,
-      "chapter": 1,
-      "en": "Fundamental trigonometric identity",
-      "vi": "Hệ thức lượng giác cơ bản",
-      "def": "The English term for “Hệ thức lượng giác cơ bản” in mathematics.",
-      "ex": "Find “Fundamental trigonometric identity” in an English mathematics question."
-    },
-    {
       "id": 26,
       "lesson": 2,
       "chapter": 1,
@@ -416,31 +329,13 @@
       "ex": "Find “Trigonometric formula” in an English mathematics question."
     },
     {
-      "id": 27,
-      "lesson": 2,
-      "chapter": 1,
-      "en": "Trigonometric identity",
-      "vi": "Đồng nhất thức lượng giác",
-      "def": "The English term for “Đồng nhất thức lượng giác” in mathematics.",
-      "ex": "Find “Trigonometric identity” in an English mathematics question."
-    },
-    {
       "id": 28,
       "lesson": 2,
       "chapter": 1,
-      "en": "Angle addition formula",
+      "en": "Addition formula",
       "vi": "Công thức cộng",
       "def": "The English term for “Công thức cộng” in mathematics.",
       "ex": "Find “Angle addition formula” in an English mathematics question."
-    },
-    {
-      "id": 29,
-      "lesson": 2,
-      "chapter": 1,
-      "en": "Angle subtraction formula",
-      "vi": "Công thức hiệu",
-      "def": "The English term for “Công thức hiệu” in mathematics.",
-      "ex": "Find “Angle subtraction formula” in an English mathematics question."
     },
     {
       "id": 30,
@@ -477,15 +372,6 @@
       "vi": "Công thức biến đổi tổng thành tích",
       "def": "The English term for “Công thức biến đổi tổng thành tích” in mathematics.",
       "ex": "Find “Sum-to-product formula” in an English mathematics question."
-    },
-    {
-      "id": 34,
-      "lesson": 2,
-      "chapter": 1,
-      "en": "Trigonometric expression",
-      "vi": "Biểu thức lượng giác",
-      "def": "The English term for “Biểu thức lượng giác” in mathematics.",
-      "ex": "Find “Trigonometric expression” in an English mathematics question."
     },
     {
       "id": 35,
@@ -551,15 +437,6 @@
       "ex": "The range of y = x² is y ≥ 0."
     },
     {
-      "id": 42,
-      "lesson": 3,
-      "chapter": 1,
-      "en": "Graph of a function",
-      "vi": "Đồ thị hàm số",
-      "def": "The English term for “Đồ thị hàm số” in mathematics.",
-      "ex": "Find “Graph of a function” in an English mathematics question."
-    },
-    {
       "id": 43,
       "lesson": 3,
       "chapter": 1,
@@ -605,24 +482,6 @@
       "ex": "Find “Fundamental period” in an English mathematics question."
     },
     {
-      "id": 48,
-      "lesson": 3,
-      "chapter": 1,
-      "en": "Increasing function",
-      "vi": "Hàm số đồng biến",
-      "def": "The English term for “Hàm số đồng biến” in mathematics.",
-      "ex": "Find “Increasing function” in an English mathematics question."
-    },
-    {
-      "id": 49,
-      "lesson": 3,
-      "chapter": 1,
-      "en": "Decreasing function",
-      "vi": "Hàm số nghịch biến",
-      "def": "The English term for “Hàm số nghịch biến” in mathematics.",
-      "ex": "Find “Decreasing function” in an English mathematics question."
-    },
-    {
       "id": 50,
       "lesson": 3,
       "chapter": 1,
@@ -630,24 +489,6 @@
       "vi": "Tính đơn điệu",
       "def": "The English term for “Tính đơn điệu” in mathematics.",
       "ex": "Find “Monotonicity” in an English mathematics question."
-    },
-    {
-      "id": 51,
-      "lesson": 3,
-      "chapter": 1,
-      "en": "Maximum value",
-      "vi": "Giá trị lớn nhất",
-      "def": "The English term for “Giá trị lớn nhất” in mathematics.",
-      "ex": "Find “Maximum value” in an English mathematics question."
-    },
-    {
-      "id": 52,
-      "lesson": 3,
-      "chapter": 1,
-      "en": "Minimum value",
-      "vi": "Giá trị nhỏ nhất",
-      "def": "The English term for “Giá trị nhỏ nhất” in mathematics.",
-      "ex": "Find “Minimum value” in an English mathematics question."
     },
     {
       "id": 53,
@@ -677,42 +518,6 @@
       "ex": "Find “Trigonometric equation” in an English mathematics question."
     },
     {
-      "id": 56,
-      "lesson": 4,
-      "chapter": 1,
-      "en": "Basic trigonometric equation",
-      "vi": "Phương trình lượng giác cơ bản",
-      "def": "The English term for “Phương trình lượng giác cơ bản” in mathematics.",
-      "ex": "Find “Basic trigonometric equation” in an English mathematics question."
-    },
-    {
-      "id": 57,
-      "lesson": 4,
-      "chapter": 1,
-      "en": "Unknown",
-      "vi": "Ẩn số",
-      "def": "The English term for “Ẩn số” in mathematics.",
-      "ex": "Find “Unknown” in an English mathematics question."
-    },
-    {
-      "id": 58,
-      "lesson": 4,
-      "chapter": 1,
-      "en": "Solution",
-      "vi": "Nghiệm",
-      "def": "The English term for “Nghiệm” in mathematics.",
-      "ex": "Find “Solution” in an English mathematics question."
-    },
-    {
-      "id": 59,
-      "lesson": 4,
-      "chapter": 1,
-      "en": "Solution set",
-      "vi": "Tập nghiệm",
-      "def": "The English term for “Tập nghiệm” in mathematics.",
-      "ex": "Find “Solution set” in an English mathematics question."
-    },
-    {
       "id": 60,
       "lesson": 4,
       "chapter": 1,
@@ -722,31 +527,13 @@
       "ex": "Find “General solution” in an English mathematics question."
     },
     {
-      "id": 61,
-      "lesson": 4,
-      "chapter": 1,
-      "en": "Family of solutions",
-      "vi": "Họ nghiệm",
-      "def": "The English term for “Họ nghiệm” in mathematics.",
-      "ex": "Find “Family of solutions” in an English mathematics question."
-    },
-    {
-      "id": 62,
-      "lesson": 4,
-      "chapter": 1,
-      "en": "Equivalent equations",
-      "vi": "Các phương trình tương đương",
-      "def": "The English term for “Các phương trình tương đương” in mathematics.",
-      "ex": "Find “Equivalent equations” in an English mathematics question."
-    },
-    {
-      "id": 63,
-      "lesson": 4,
-      "chapter": 1,
-      "en": "Solve a trigonometric equation",
-      "vi": "Giải phương trình lượng giác",
-      "def": "The English term for “Giải phương trình lượng giác” in mathematics.",
-      "ex": "Find “Solve a trigonometric equation” in an English mathematics question."
+      "id": 64,
+      "lesson": 5,
+      "chapter": 2,
+      "en": "Sequence",
+      "vi": "Dãy số",
+      "def": "A sequence is a function whose domain is either the set of all positive integers or the set of the first m positive integers, for some positive integer m.",
+      "ex": "\\[\n1,\\ 3,\\ 5,\\ 7,\\ 9.\n\\]\n\n\n\n\n\\[\n2,\\ 4,\\ 6,\\ 8,\\ 10,\\ldots\n\\]"
     },
     {
       "id": 65,
@@ -754,8 +541,8 @@
       "chapter": 2,
       "en": "Finite sequence",
       "vi": "Dãy số hữu hạn",
-      "def": "A sequence with a limited number of terms.",
-      "ex": "2, 4, 6, 8 is a finite sequence."
+      "def": "A finite sequence is a function u defined on the set M = {1, 2, 3, ..., m}, where m is a positive integer.",
+      "ex": "\\[\n1,\\ 2,\\ 3,\\ 4,\\ 5.\n\\]\n\nThis is a finite sequence"
     },
     {
       "id": 66,
@@ -763,8 +550,8 @@
       "chapter": 2,
       "en": "Infinite sequence",
       "vi": "Dãy số vô hạn",
-      "def": "A sequence that continues without end.",
-      "ex": "1, 2, 3, 4, ... is infinite."
+      "def": "An infinite sequence is a function whose domain is the set of positive integers \n\\(\\mathbb{N}^*\\).\nNotation\n\\[\n(u_n):\\quad u_1,u_2,u_3,\\ldots,u_n,\\ldots\n\\]",
+      "ex": "1, 2, 3, 4, ... is an infinite sequence."
     },
     {
       "id": 67,
@@ -776,76 +563,13 @@
       "ex": "In 2, 4, 6, the second term is 4."
     },
     {
-      "id": 68,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "First term",
-      "vi": "Số hạng đầu",
-      "def": "The first number in a sequence.",
-      "ex": "The first term of 5, 8, 11 is 5."
-    },
-    {
-      "id": 69,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "nth term",
-      "vi": "Số hạng thứ n",
-      "def": "The term in position n of a sequence.",
-      "ex": "The nth term of 2, 4, 6, ... is 2n."
-    },
-    {
       "id": 70,
       "lesson": 5,
       "chapter": 2,
       "en": "General term",
       "vi": "Số hạng tổng quát",
-      "def": "The English term for “Số hạng tổng quát” in mathematics.",
-      "ex": "Find “General term” in an English mathematics question."
-    },
-    {
-      "id": 71,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Last term",
-      "vi": "Số hạng cuối",
-      "def": "The final term in a finite sequence.",
-      "ex": "The last term of 2, 4, 6 is 6."
-    },
-    {
-      "id": 72,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Consecutive terms",
-      "vi": "Các số hạng liên tiếp",
-      "def": "Terms that follow one another in a sequence.",
-      "ex": "7 and 10 are consecutive terms in 4, 7, 10."
-    },
-    {
-      "id": 73,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Explicit formula",
-      "vi": "Công thức xác định trực tiếp số hạng theo n",
-      "def": "The English term for “Công thức xác định trực tiếp số hạng theo n” in mathematics.",
-      "ex": "Find “Explicit formula” in an English mathematics question."
-    },
-    {
-      "id": 74,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Recurrence relation",
-      "vi": "Hệ thức truy hồi",
-      "def": "The English term for “Hệ thức truy hồi” in mathematics.",
-      "ex": "Find “Recurrence relation” in an English mathematics question."
-    },
-    {
-      "id": 75,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Recursive formula",
-      "vi": "Công thức truy hồi",
-      "def": "The English term for “Công thức truy hồi” in mathematics.",
-      "ex": "Find “Recursive formula” in an English mathematics question."
+      "def": "\\[u_n=f(n),\\quad n\\in\\mathbb N^*\n\\]",
+      "ex": "\\[u_n=2n,\\quad n\\geq1\n\n\\]"
     },
     {
       "id": 76,
@@ -853,8 +577,8 @@
       "chapter": 2,
       "en": "Increasing sequence",
       "vi": "Dãy số tăng",
-      "def": "The English term for “Dãy số tăng” in mathematics.",
-      "ex": "Find “Increasing sequence” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is called an increasing sequence if \n\\[\n\\boxed{u_{n+1}>u_n,\\quad \\forall n\\in\\mathbb N^*}\n\\]",
+      "ex": "The sequence \\(1,3,5,7,9,\\ldots\\) is an increasing sequence."
     },
     {
       "id": 77,
@@ -862,26 +586,8 @@
       "chapter": 2,
       "en": "Decreasing sequence",
       "vi": "Dãy số giảm",
-      "def": "The English term for “Dãy số giảm” in mathematics.",
-      "ex": "Find “Decreasing sequence” in an English mathematics question."
-    },
-    {
-      "id": 78,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Strictly increasing sequence",
-      "vi": "Dãy số tăng nghiêm ngặt",
-      "def": "The English term for “Dãy số tăng nghiêm ngặt” in mathematics.",
-      "ex": "Find “Strictly increasing sequence” in an English mathematics question."
-    },
-    {
-      "id": 79,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Strictly decreasing sequence",
-      "vi": "Dãy số giảm nghiêm ngặt",
-      "def": "The English term for “Dãy số giảm nghiêm ngặt” in mathematics.",
-      "ex": "Find “Strictly decreasing sequence” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is called a decreasing sequence if\n\\[\n\\boxed{u_{n+1}<u_n,\\quad \\forall n\\in\\mathbb N^*.}\n\\]",
+      "ex": "The sequence \\(10,8,6,4,2,\\ldots\\) is decreasing."
     },
     {
       "id": 80,
@@ -889,17 +595,8 @@
       "chapter": 2,
       "en": "Constant sequence",
       "vi": "Dãy số không đổi",
-      "def": "The English term for “Dãy số không đổi” in mathematics.",
-      "ex": "Find “Constant sequence” in an English mathematics question."
-    },
-    {
-      "id": 81,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Monotonic sequence",
-      "vi": "Dãy số đơn điệu",
-      "def": "The English term for “Dãy số đơn điệu” in mathematics.",
-      "ex": "Find “Monotonic sequence” in an English mathematics question."
+      "def": "\\[\nu_n=c,\\quad \\forall n\\in\\mathbb N^*\n\\]",
+      "ex": "The sequence \\(3,3,3,3,\\ldots\\) is a constant sequence."
     },
     {
       "id": 82,
@@ -907,8 +604,8 @@
       "chapter": 2,
       "en": "Bounded sequence",
       "vi": "Dãy số bị chặn",
-      "def": "The English term for “Dãy số bị chặn” in mathematics.",
-      "ex": "Find “Bounded sequence” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is called a bounded sequence if it is both bounded above and bounded below. \\[\n\\boxed{\\exists\\,m,M:\nm\\le u_n\\le M,\\quad \\forall n\\in\\mathbb N^*.}\n\\]",
+      "ex": "\\[\n0<u_n=\\frac1n\\le1\\quad \\forall n\\in\\mathbb N^*,\n\\]The sequence \\((u_n)\\) is bounded."
     },
     {
       "id": 83,
@@ -916,8 +613,8 @@
       "chapter": 2,
       "en": "Sequence bounded above",
       "vi": "Dãy số bị chặn trên",
-      "def": "The English term for “Dãy số bị chặn trên” in mathematics.",
-      "ex": "Find “Sequence bounded above” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is said to be bounded above if there exists a real number \\(M\\) such that \\[u_n\\le M,\\quad \\forall n\\in\\mathbb N^*.\n\\]",
+      "ex": "\\[\nu_n=\\frac1n\\le1,\\quad n\\in\\mathbb N^*\n\\]\n\nThe sequence is bounded above by 1."
     },
     {
       "id": 84,
@@ -925,35 +622,17 @@
       "chapter": 2,
       "en": "Sequence bounded below",
       "vi": "Dãy số bị chặn dưới",
-      "def": "The English term for “Dãy số bị chặn dưới” in mathematics.",
-      "ex": "Find “Sequence bounded below” in an English mathematics question."
-    },
-    {
-      "id": 85,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Upper bound",
-      "vi": "Cận trên",
-      "def": "The English term for “Cận trên” in mathematics.",
-      "ex": "Find “Upper bound” in an English mathematics question."
-    },
-    {
-      "id": 86,
-      "lesson": 5,
-      "chapter": 2,
-      "en": "Lower bound",
-      "vi": "Cận dưới",
-      "def": "The English term for “Cận dưới” in mathematics.",
-      "ex": "Find “Lower bound” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is said to be bounded below if there exists a real number \\(m\\) such that \n\\[u_n\\ge m,\\quad \\forall n\\in\\mathbb N^*.\\]",
+      "ex": "\\[\nu_n=-\\frac1n\\ge-1,\\quad n\\in\\mathbb N^*\n\\]\n\nThe sequence is bounded below by \\(-1\\)."
     },
     {
       "id": 87,
       "lesson": 6,
       "chapter": 2,
-      "en": "Arithmetic sequence (arithmetic progression)",
+      "en": "Arithmetic sequence/Arithmetic progression",
       "vi": "Cấp số cộng",
-      "def": "A sequence with the same difference between consecutive terms.",
-      "ex": "2, 5, 8, 11 is an arithmetic sequence."
+      "def": "\\[u_{n+1}=u_n+d,\\quad \\forall n\\in\\mathbb N^*.\n\n\\] \\(d\\) called the common difference.",
+      "ex": "The sequence \\(2,5,8,11,14,\\ldots\\) is an arithmetic sequence with first term \\(u_1=2\\) and common difference \\(d=3\\)."
     },
     {
       "id": 88,
@@ -961,17 +640,8 @@
       "chapter": 2,
       "en": "Common difference",
       "vi": "Công sai",
-      "def": "The fixed amount added to get the next term.",
-      "ex": "The common difference of 3, 6, 9 is 3."
-    },
-    {
-      "id": 89,
-      "lesson": 6,
-      "chapter": 2,
-      "en": "General term of an arithmetic sequence",
-      "vi": "Số hạng tổng quát của cấp số cộng",
-      "def": "The English term for “Số hạng tổng quát của cấp số cộng” in mathematics.",
-      "ex": "Find “General term of an arithmetic sequence” in an English mathematics question."
+      "def": "The common difference of an arithmetic sequence: \\[d=u_{n+1}-u_n,\\quad \\forall n\\in\\mathbb N^*.\n\n\\]",
+      "ex": "\\[\n2,\\ 5,\\ 8,\\ 11,\\ 14,\\ldots\n\\]\n\nThe common difference of this arithmetic sequence is \\(d=3\\)."
     },
     {
       "id": 90,
@@ -979,26 +649,8 @@
       "chapter": 2,
       "en": "Sum of the first n terms",
       "vi": "Tổng n số hạng đầu",
-      "def": "The English term for “Tổng n số hạng đầu” in mathematics.",
-      "ex": "Find “Sum of the first n terms” in an English mathematics question."
-    },
-    {
-      "id": 91,
-      "lesson": 6,
-      "chapter": 2,
-      "en": "Arithmetic series",
-      "vi": "Tổng các số hạng của một cấp số cộng",
-      "def": "A sum formed from an arithmetic progression.",
-      "ex": "2 + 4 + 6 + 8 is an arithmetic series."
-    },
-    {
-      "id": 92,
-      "lesson": 6,
-      "chapter": 2,
-      "en": "Arithmetic mean",
-      "vi": "Trung bình cộng",
-      "def": "The English term for “Trung bình cộng” in mathematics.",
-      "ex": "Find “Arithmetic mean” in an English mathematics question."
+      "def": "\\[\n\\begin{aligned}\nS_n &= u_1+u_2+\\cdots+u_n\\\n\n\\end{aligned}\n\\]",
+      "ex": "The sum of the first five terms is:\n\\[\nS_5=u_1+u_2+\\cdots+u_5\\\n\\]"
     },
     {
       "id": 93,
@@ -1019,78 +671,6 @@
       "ex": "The common ratio of 2, 4, 8 is 2."
     },
     {
-      "id": 95,
-      "lesson": 7,
-      "chapter": 2,
-      "en": "General term of a geometric sequence",
-      "vi": "Số hạng tổng quát của cấp số nhân",
-      "def": "The English term for “Số hạng tổng quát của cấp số nhân” in mathematics.",
-      "ex": "Find “General term of a geometric sequence” in an English mathematics question."
-    },
-    {
-      "id": 96,
-      "lesson": 7,
-      "chapter": 2,
-      "en": "Finite geometric series",
-      "vi": "Tổng hữu hạn các số hạng của một cấp số nhân",
-      "def": "The English term for “Tổng hữu hạn các số hạng của một cấp số nhân” in mathematics.",
-      "ex": "Find “Finite geometric series” in an English mathematics question."
-    },
-    {
-      "id": 97,
-      "lesson": 7,
-      "chapter": 2,
-      "en": "Partial sum",
-      "vi": "Tổng riêng",
-      "def": "The sum of the first n terms of a series.",
-      "ex": "S₃ = 1 + 2 + 3 = 6."
-    },
-    {
-      "id": 98,
-      "lesson": 7,
-      "chapter": 2,
-      "en": "Geometric mean",
-      "vi": "Trung bình nhân",
-      "def": "The English term for “Trung bình nhân” in mathematics.",
-      "ex": "Find “Geometric mean” in an English mathematics question."
-    },
-    {
-      "id": 99,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Data",
-      "vi": "Dữ liệu, số liệu",
-      "def": "The English term for “Dữ liệu, số liệu” in mathematics.",
-      "ex": "Find “Data” in an English mathematics question."
-    },
-    {
-      "id": 100,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Observation",
-      "vi": "Quan sát, giá trị quan sát",
-      "def": "The English term for “Quan sát, giá trị quan sát” in mathematics.",
-      "ex": "Find “Observation” in an English mathematics question."
-    },
-    {
-      "id": 101,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Sample",
-      "vi": "Mẫu",
-      "def": "The English term for “Mẫu” in mathematics.",
-      "ex": "Find “Sample” in an English mathematics question."
-    },
-    {
-      "id": 102,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Sample data",
-      "vi": "Mẫu số liệu",
-      "def": "The English term for “Mẫu số liệu” in mathematics.",
-      "ex": "Find “Sample data” in an English mathematics question."
-    },
-    {
       "id": 103,
       "lesson": 8,
       "chapter": 3,
@@ -1098,15 +678,6 @@
       "vi": "Cỡ mẫu",
       "def": "The English term for “Cỡ mẫu” in mathematics.",
       "ex": "Find “Sample size” in an English mathematics question."
-    },
-    {
-      "id": 104,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Ungrouped data",
-      "vi": "Số liệu chưa ghép nhóm",
-      "def": "The English term for “Số liệu chưa ghép nhóm” in mathematics.",
-      "ex": "Find “Ungrouped data” in an English mathematics question."
     },
     {
       "id": 105,
@@ -1118,49 +689,13 @@
       "ex": "Find “Grouped data” in an English mathematics question."
     },
     {
-      "id": 106,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Group data",
-      "vi": "Ghép nhóm số liệu",
-      "def": "The English term for “Ghép nhóm số liệu” in mathematics.",
-      "ex": "Find “Group data” in an English mathematics question."
-    },
-    {
       "id": 107,
       "lesson": 8,
       "chapter": 3,
-      "en": "Class",
-      "vi": "Nhóm",
-      "def": "The English term for “Nhóm” in mathematics.",
-      "ex": "Find “Class” in an English mathematics question."
-    },
-    {
-      "id": 108,
-      "lesson": 8,
-      "chapter": 3,
       "en": "Class interval",
-      "vi": "Khoảng nhóm",
-      "def": "The English term for “Khoảng nhóm” in mathematics.",
+      "vi": "Nhóm số liệu",
+      "def": "The English term for “Nhóm số liệu” in mathematics.",
       "ex": "Find “Class interval” in an English mathematics question."
-    },
-    {
-      "id": 109,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Lower endpoint of a class interval",
-      "vi": "Đầu mút trái của khoảng nhóm",
-      "def": "The English term for “Đầu mút trái của khoảng nhóm” in mathematics.",
-      "ex": "Find “Lower endpoint of a class interval” in an English mathematics question."
-    },
-    {
-      "id": 110,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Upper endpoint of a class interval",
-      "vi": "Đầu mút phải của khoảng nhóm",
-      "def": "The English term for “Đầu mút phải của khoảng nhóm” in mathematics.",
-      "ex": "Find “Upper endpoint of a class interval” in an English mathematics question."
     },
     {
       "id": 111,
@@ -1190,33 +725,6 @@
       "ex": "The frequency of 5 is three in 5, 5, 5, 7."
     },
     {
-      "id": 114,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Frequency table",
-      "vi": "Bảng tần số",
-      "def": "The English term for “Bảng tần số” in mathematics.",
-      "ex": "Find “Frequency table” in an English mathematics question."
-    },
-    {
-      "id": 115,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Grouped frequency table",
-      "vi": "Bảng tần số ghép nhóm",
-      "def": "The English term for “Bảng tần số ghép nhóm” in mathematics.",
-      "ex": "Find “Grouped frequency table” in an English mathematics question."
-    },
-    {
-      "id": 116,
-      "lesson": 8,
-      "chapter": 3,
-      "en": "Cumulative frequency",
-      "vi": "Tần số tích lũy",
-      "def": "The English term for “Tần số tích lũy” in mathematics.",
-      "ex": "Find “Cumulative frequency” in an English mathematics question."
-    },
-    {
       "id": 117,
       "lesson": 9,
       "chapter": 3,
@@ -1233,15 +741,6 @@
       "vi": "Số trung bình, trung bình cộng",
       "def": "The total of the values divided by their number.",
       "ex": "The mean of 2, 4 and 6 is 4."
-    },
-    {
-      "id": 119,
-      "lesson": 9,
-      "chapter": 3,
-      "en": "Weighted mean",
-      "vi": "Trung bình có trọng số",
-      "def": "The English term for “Trung bình có trọng số” in mathematics.",
-      "ex": "Find “Weighted mean” in an English mathematics question."
     },
     {
       "id": 120,
@@ -1325,24 +824,6 @@
       "ex": "Find “Modal class” in an English mathematics question."
     },
     {
-      "id": 129,
-      "lesson": 9,
-      "chapter": 3,
-      "en": "Estimate",
-      "vi": "Ước lượng; giá trị ước lượng",
-      "def": "The English term for “Ước lượng; giá trị ước lượng” in mathematics.",
-      "ex": "Find “Estimate” in an English mathematics question."
-    },
-    {
-      "id": 130,
-      "lesson": 9,
-      "chapter": 3,
-      "en": "Approximate value",
-      "vi": "Giá trị gần đúng",
-      "def": "The English term for “Giá trị gần đúng” in mathematics.",
-      "ex": "Find “Approximate value” in an English mathematics question."
-    },
-    {
       "id": 131,
       "lesson": 10,
       "chapter": 4,
@@ -1352,40 +833,13 @@
       "ex": "Find “Solid geometry” in an English mathematics question."
     },
     {
-      "id": 132,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "Space",
-      "vi": "Không gian",
-      "def": "The English term for “Không gian” in mathematics.",
-      "ex": "Find “Space” in an English mathematics question."
-    },
-    {
       "id": 133,
       "lesson": 10,
       "chapter": 4,
-      "en": "Point",
-      "vi": "Điểm",
-      "def": "The English term for “Điểm” in mathematics.",
-      "ex": "Find “Point” in an English mathematics question."
-    },
-    {
-      "id": 134,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "Line",
-      "vi": "Đường thẳng",
-      "def": "The English term for “Đường thẳng” in mathematics.",
-      "ex": "Find “Line” in an English mathematics question."
-    },
-    {
-      "id": 135,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "Line segment",
-      "vi": "Đoạn thẳng",
-      "def": "The English term for “Đoạn thẳng” in mathematics.",
-      "ex": "Find “Line segment” in an English mathematics question."
+      "en": "Point incident with a plane",
+      "vi": "Điểm thuộc mặt phẳng",
+      "def": "A point lies in a plane if the plane contains that point",
+      "ex": "Point A lies on plane (P), denoted by A∈(P)"
     },
     {
       "id": 136,
@@ -1397,24 +851,6 @@
       "ex": "Points A, B and C lie in one plane."
     },
     {
-      "id": 137,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "Collinear points",
-      "vi": "Các điểm thẳng hàng",
-      "def": "The English term for “Các điểm thẳng hàng” in mathematics.",
-      "ex": "Find “Collinear points” in an English mathematics question."
-    },
-    {
-      "id": 138,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "Non-collinear points",
-      "vi": "Các điểm không thẳng hàng",
-      "def": "The English term for “Các điểm không thẳng hàng” in mathematics.",
-      "ex": "Find “Non-collinear points” in an English mathematics question."
-    },
-    {
       "id": 139,
       "lesson": 10,
       "chapter": 4,
@@ -1422,15 +858,6 @@
       "vi": "Các điểm đồng phẳng",
       "def": "The English term for “Các điểm đồng phẳng” in mathematics.",
       "ex": "Find “Coplanar points” in an English mathematics question."
-    },
-    {
-      "id": 140,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "Non-coplanar points",
-      "vi": "Các điểm không đồng phẳng",
-      "def": "The English term for “Các điểm không đồng phẳng” in mathematics.",
-      "ex": "Find “Non-coplanar points” in an English mathematics question."
     },
     {
       "id": 141,
@@ -1451,40 +878,13 @@
       "ex": "Find “Line of intersection of two planes” in an English mathematics question."
     },
     {
-      "id": 143,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "A point lies on a line",
-      "vi": "Một điểm thuộc đường thẳng",
-      "def": "The English term for “Một điểm thuộc đường thẳng” in mathematics.",
-      "ex": "Find “A point lies on a line” in an English mathematics question."
-    },
-    {
-      "id": 144,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "A point lies in a plane",
-      "vi": "Một điểm thuộc mặt phẳng",
-      "def": "The English term for “Một điểm thuộc mặt phẳng” in mathematics.",
-      "ex": "Find “A point lies in a plane” in an English mathematics question."
-    },
-    {
       "id": 145,
       "lesson": 10,
       "chapter": 4,
       "en": "A line lies in a plane",
       "vi": "Một đường thẳng nằm trong mặt phẳng",
-      "def": "The English term for “Một đường thẳng nằm trong mặt phẳng” in mathematics.",
-      "ex": "Find “A line lies in a plane” in an English mathematics question."
-    },
-    {
-      "id": 146,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "Determine a plane",
-      "vi": "Xác định một mặt phẳng",
-      "def": "The English term for “Xác định một mặt phẳng” in mathematics.",
-      "ex": "Find “Determine a plane” in an English mathematics question."
+      "def": "A line lies in a plane if every point on the line belongs to that plane.",
+      "ex": "Line a lies in plane (P).\nNotation: a\\(\\subset\\)(P)."
     },
     {
       "id": 147,
@@ -1501,8 +901,8 @@
       "chapter": 4,
       "en": "Apex",
       "vi": "Đỉnh của hình chóp",
-      "def": "The English term for “Đỉnh của hình chóp” in mathematics.",
-      "ex": "Find “Apex” in an English mathematics question."
+      "def": "The vertex of a pyramid or cone opposite its base.",
+      "ex": "Point S is the apex of pyramid S.ABCD."
     },
     {
       "id": 149,
@@ -1510,8 +910,8 @@
       "chapter": 4,
       "en": "Vertex",
       "vi": "Đỉnh",
-      "def": "The English term for “Đỉnh” in mathematics.",
-      "ex": "Find “Vertex” in an English mathematics question."
+      "def": "A point where two or more edges or rays meet.",
+      "ex": "Point A is a vertex of triangle ABC"
     },
     {
       "id": 150,
@@ -1519,8 +919,8 @@
       "chapter": 4,
       "en": "Base",
       "vi": "Đáy, mặt đáy",
-      "def": "The English term for “Đáy, mặt đáy” in mathematics.",
-      "ex": "Find “Base” in an English mathematics question."
+      "def": "A base is a face of a solid figure, such as a prism or pyramid, that is designated as its bottom or reference face.",
+      "ex": "ABCD is the base of pyramid S.ABCD."
     },
     {
       "id": 151,
@@ -1529,16 +929,7 @@
       "en": "Lateral face",
       "vi": "Mặt bên",
       "def": "The English term for “Mặt bên” in mathematics.",
-      "ex": "Find “Lateral face” in an English mathematics question."
-    },
-    {
-      "id": 152,
-      "lesson": 10,
-      "chapter": 4,
-      "en": "Base edge",
-      "vi": "Cạnh đáy",
-      "def": "The English term for “Cạnh đáy” in mathematics.",
-      "ex": "Find “Base edge” in an English mathematics question."
+      "ex": "(SAB) is a lateral face of pyramid S.ABCD."
     },
     {
       "id": 153,
@@ -1547,7 +938,7 @@
       "en": "Lateral edge",
       "vi": "Cạnh bên",
       "def": "The English term for “Cạnh bên” in mathematics.",
-      "ex": "Find “Lateral edge” in an English mathematics question."
+      "ex": "SA is a lateral edge of pyramid S.ABCD."
     },
     {
       "id": 154,
@@ -1555,8 +946,8 @@
       "chapter": 4,
       "en": "Tetrahedron",
       "vi": "Hình tứ diện",
-      "def": "The English term for “Hình tứ diện” in mathematics.",
-      "ex": "Find “Tetrahedron” in an English mathematics question."
+      "def": "Given four non-coplanar points A, B, C, and D, the solid formed by the four triangular faces (ABC), (ACD), (ABD), and (BCD) is called a tetrahedron, denoted by ABCD.",
+      "ex": "ABCD is a tetrahedron with four vertices, six edges, and four triangular faces"
     },
     {
       "id": 155,
@@ -1573,71 +964,44 @@
       "chapter": 4,
       "en": "Relative position",
       "vi": "Vị trí tương đối",
-      "def": "The English term for “Vị trí tương đối” in mathematics.",
-      "ex": "Find “Relative position” in an English mathematics question."
-    },
-    {
-      "id": 157,
-      "lesson": 11,
-      "chapter": 4,
-      "en": "Coplanar lines",
-      "vi": "Các đường thẳng đồng phẳng",
-      "def": "The English term for “Các đường thẳng đồng phẳng” in mathematics.",
-      "ex": "Find “Coplanar lines” in an English mathematics question."
+      "def": "The relative position describes how two geometric objects are positioned in relation to each other.",
+      "ex": "Two lines in space can be parallel, intersecting, or skew."
     },
     {
       "id": 158,
       "lesson": 11,
       "chapter": 4,
       "en": "Parallel lines",
-      "vi": "Các đường thẳng song song",
-      "def": "Lines in one plane that never meet.",
-      "ex": "Two horizontal lines at different heights are parallel."
+      "vi": "Hai đường thẳng song song",
+      "def": "Two lines are parallel if they lie in the same plane and do not intersect.",
+      "ex": "Lines \\(a\\) and \\(b\\) lie in the same plane and do not intersect. Therefore, \\(a\\parallel b\\)."
     },
     {
       "id": 159,
       "lesson": 11,
       "chapter": 4,
       "en": "Intersecting lines",
-      "vi": "Các đường thẳng cắt nhau",
-      "def": "The English term for “Các đường thẳng cắt nhau” in mathematics.",
-      "ex": "Find “Intersecting lines” in an English mathematics question."
+      "vi": "Hai đường thẳng cắt nhau",
+      "def": "Two lines are intersecting if they have exactly one common point.",
+      "ex": "Lines \\(a\\) and \\(b\\) intersect at point \\(O\\)."
     },
     {
       "id": 160,
       "lesson": 11,
       "chapter": 4,
       "en": "Coincident lines",
-      "vi": "Các đường thẳng trùng nhau",
-      "def": "The English term for “Các đường thẳng trùng nhau” in mathematics.",
-      "ex": "Find “Coincident lines” in an English mathematics question."
+      "vi": "Hai đường thẳng trùng nhau",
+      "def": "Two lines are coincident if they have all their points in common.",
+      "ex": "Lines \\(a\\) and \\(b\\) coincide."
     },
     {
       "id": 161,
       "lesson": 11,
       "chapter": 4,
       "en": "Skew lines",
-      "vi": "Các đường thẳng chéo nhau",
-      "def": "Lines in space that are not parallel and do not meet.",
-      "ex": "Skew lines do not lie in the same plane."
-    },
-    {
-      "id": 162,
-      "lesson": 11,
-      "chapter": 4,
-      "en": "Transversal",
-      "vi": "Cát tuyến",
-      "def": "The English term for “Cát tuyến” in mathematics.",
-      "ex": "Find “Transversal” in an English mathematics question."
-    },
-    {
-      "id": 163,
-      "lesson": 11,
-      "chapter": 4,
-      "en": "Theorem on the intersection lines of three planes",
-      "vi": "Định lí về giao tuyến của ba mặt phẳng",
-      "def": "The English term for “Định lí về giao tuyến của ba mặt phẳng” in mathematics.",
-      "ex": "Find “Theorem on the intersection lines of three planes” in an English mathematics question."
+      "vi": "Hai đường thẳng chéo nhau",
+      "def": "Two lines are skew if they do not lie in the same plane.",
+      "ex": "In tetrahedron \\(ABCD\\), lines \\(AB\\) and \\(CD\\) are skew."
     },
     {
       "id": 164,
@@ -1645,107 +1009,80 @@
       "chapter": 4,
       "en": "A line parallel to a plane",
       "vi": "Đường thẳng song song với mặt phẳng",
-      "def": "The English term for “Đường thẳng song song với mặt phẳng” in mathematics.",
-      "ex": "Find “A line parallel to a plane” in an English mathematics question."
+      "def": "A line is parallel to a plane if they have no points in common.",
+      "ex": "Line \\(a\\) is parallel to plane \\((P)\\). Notation: \\(a\\parallel(P)\\)."
     },
     {
       "id": 165,
       "lesson": 12,
       "chapter": 4,
-      "en": "A line intersecting a plane at one point",
-      "vi": "Đường thẳng cắt mặt phẳng tại một điểm",
-      "def": "The English term for “Đường thẳng cắt mặt phẳng tại một điểm” in mathematics.",
-      "ex": "Find “A line intersecting a plane at one point” in an English mathematics question."
+      "en": "A line intersecting a plane",
+      "vi": "Đường thẳng cắt mặt phẳng",
+      "def": "A line intersects a plane if they have exactly one point in common.",
+      "ex": "Line \\(a\\) intersects plane \\((P)\\) at point \\(A\\)."
     },
     {
       "id": 166,
-      "lesson": 12,
+      "lesson": 32,
       "chapter": 4,
       "en": "Parallel planes",
-      "vi": "Các mặt phẳng song song",
-      "def": "The English term for “Các mặt phẳng song song” in mathematics.",
-      "ex": "Find “Parallel planes” in an English mathematics question."
+      "vi": "Hai mặt phẳng song song",
+      "def": "Two distinct planes are parallel if they have no points in common.",
+      "ex": "Planes \\((P)\\) and \\((Q)\\) have no points in common. Therefore, they are parallel.Notation: \\((P)\\parallel(Q)\\)."
     },
     {
       "id": 167,
-      "lesson": 12,
+      "lesson": 32,
       "chapter": 4,
       "en": "Intersecting planes",
-      "vi": "Các mặt phẳng cắt nhau",
-      "def": "The English term for “Các mặt phẳng cắt nhau” in mathematics.",
-      "ex": "Find “Intersecting planes” in an English mathematics question."
+      "vi": "Hai mặt phẳng cắt nhau",
+      "def": "Two distinct planes are intersecting if they have a line in common.",
+      "ex": "Planes \\((P)\\) and \\((Q)\\) intersect along line \\(d\\).Notation: \\((P)\\cap(Q)=d\\)."
     },
     {
       "id": 168,
-      "lesson": 12,
+      "lesson": 32,
       "chapter": 4,
       "en": "Thales’ theorem in space",
       "vi": "Định lí Thalès trong không gian",
-      "def": "The English term for “Định lí Thalès trong không gian” in mathematics.",
-      "ex": "Find “Thales’ theorem in space” in an English mathematics question."
+      "def": "If three parallel planes intersect two transversals, the corresponding segments determined on the transversals are proportional.",
+      "ex": "Three parallel planes \\((P)\\), \\((Q)\\), and \\((R)\\) intersect line \\(a\\) at \\(A,B,C\\) and line \\(b\\) at \\(A',B',C'\\), respectively. Then\n\\[\n\\boxed{\\frac{AB}{BC}=\\frac{A'B'}{B'C'}}\n\\]"
     },
     {
       "id": 169,
-      "lesson": 12,
+      "lesson": 32,
       "chapter": 4,
       "en": "Prism",
       "vi": "Hình lăng trụ",
-      "def": "The English term for “Hình lăng trụ” in mathematics.",
+      "def": "A polyhedron with two congruent polygonal bases in parallel planes, and whose lateral faces are parallelograms.",
       "ex": "Find “Prism” in an English mathematics question."
     },
     {
       "id": 170,
-      "lesson": 12,
+      "lesson": 32,
       "chapter": 4,
       "en": "Triangular prism",
       "vi": "Hình lăng trụ tam giác",
-      "def": "The English term for “Hình lăng trụ tam giác” in mathematics.",
-      "ex": "Find “Triangular prism” in an English mathematics question."
+      "def": "A prism with triangular bases is called a triangular prism",
+      "ex": "\\(ABC.A'B'C'\\) is a triangular prism. — \\(ABC.A'B'C'\\) là hình lăng trụ tam giác."
     },
     {
       "id": 171,
-      "lesson": 12,
+      "lesson": 32,
       "chapter": 4,
       "en": "Quadrilateral prism",
       "vi": "Hình lăng trụ tứ giác",
-      "def": "The English term for “Hình lăng trụ tứ giác” in mathematics.",
-      "ex": "Find “Quadrilateral prism” in an English mathematics question."
+      "def": "A prism with quadrilateral bases is called a quadrilateral prism.",
+      "ex": "\\(ABCD.A'B'C'D'\\) is a quadrilateral prism. — \\(ABCD.A'B'C'D'\\) là hình lăng trụ tứ giác."
     },
     {
       "id": 172,
-      "lesson": 12,
+      "lesson": 32,
       "chapter": 4,
       "en": "Parallelepiped",
       "vi": "Hình hộp",
-      "def": "The English term for “Hình hộp” in mathematics.",
-      "ex": "Find “Parallelepiped” in an English mathematics question."
-    },
-    {
-      "id": 173,
-      "lesson": 12,
-      "chapter": 4,
-      "en": "Opposite faces",
-      "vi": "Các mặt đối diện",
-      "def": "The English term for “Các mặt đối diện” in mathematics.",
-      "ex": "Find “Opposite faces” in an English mathematics question."
-    },
-    {
-      "id": 174,
-      "lesson": 12,
-      "chapter": 4,
-      "en": "Opposite edges",
-      "vi": "Các cạnh đối diện",
-      "def": "The English term for “Các cạnh đối diện” in mathematics.",
-      "ex": "Find “Opposite edges” in an English mathematics question."
-    },
-    {
-      "id": 175,
-      "lesson": 12,
-      "chapter": 4,
-      "en": "Space diagonal",
-      "vi": "Đường chéo của hình khối",
-      "def": "The English term for “Đường chéo của hình khối” in mathematics.",
-      "ex": "Find “Space diagonal” in an English mathematics question."
+      "def": "A parallelepiped is a prism whose bases are parallelograms.",
+      "ex": "\\(ABCD.A'B'C'D'\\) is a parallelepiped with six parallelogram faces."
     },
     {
       "id": 176,
@@ -1753,7 +1090,7 @@
       "chapter": 4,
       "en": "Parallel projection",
       "vi": "Phép chiếu song song",
-      "def": "The English term for “Phép chiếu song song” in mathematics.",
+      "def": "Given a plane \\((\\alpha)\\) and a line \\(\\Delta\\) intersecting \\((\\alpha)\\), for any point \\(M\\) in space, the line through \\(M\\) parallel to or coinciding with \\(\\Delta\\) intersects \\((\\alpha)\\) at a unique point \\(M'\\).\n\nThe point \\(M'\\) is called the parallel projection of \\(M\\) onto \\((\\alpha)\\) along the direction of \\(\\Delta\\). The mapping that sends each point \\(M\\) to its corresponding point \\(M'\\) is called a parallel projection.",
       "ex": "Find “Parallel projection” in an English mathematics question."
     },
     {
@@ -1763,7 +1100,7 @@
       "en": "Direction of projection",
       "vi": "Phương chiếu",
       "def": "The English term for “Phương chiếu” in mathematics.",
-      "ex": "Find “Direction of projection” in an English mathematics question."
+      "ex": "In a parallel projection onto plane \\((\\alpha)\\) along direction \\(\\Delta\\), the line \\(\\Delta\\) determines the direction of projection."
     },
     {
       "id": 178,
@@ -1772,25 +1109,7 @@
       "en": "Projection plane",
       "vi": "Mặt phẳng chiếu",
       "def": "The English term for “Mặt phẳng chiếu” in mathematics.",
-      "ex": "Find “Projection plane” in an English mathematics question."
-    },
-    {
-      "id": 179,
-      "lesson": 13,
-      "chapter": 4,
-      "en": "Projecting line",
-      "vi": "Đường chiếu",
-      "def": "The English term for “Đường chiếu” in mathematics.",
-      "ex": "Find “Projecting line” in an English mathematics question."
-    },
-    {
-      "id": 180,
-      "lesson": 13,
-      "chapter": 4,
-      "en": "Image under parallel projection",
-      "vi": "Hình chiếu song song",
-      "def": "The English term for “Hình chiếu song song” in mathematics.",
-      "ex": "Find “Image under parallel projection” in an English mathematics question."
+      "ex": "In a parallel projection onto plane \\((\\alpha)\\) along direction \\(\\Delta\\), plane \\((\\alpha)\\) is the projection plane."
     },
     {
       "id": 181,
@@ -1802,49 +1121,13 @@
       "ex": "Find “Planar representation of a solid figure” in an English mathematics question."
     },
     {
-      "id": 182,
-      "lesson": 13,
-      "chapter": 4,
-      "en": "Dashed line",
-      "vi": "Nét đứt",
-      "def": "The English term for “Nét đứt” in mathematics.",
-      "ex": "Find “Dashed line” in an English mathematics question."
-    },
-    {
-      "id": 183,
-      "lesson": 13,
-      "chapter": 4,
-      "en": "Solid line",
-      "vi": "Nét liền",
-      "def": "The English term for “Nét liền” in mathematics.",
-      "ex": "Find “Solid line” in an English mathematics question."
-    },
-    {
-      "id": 184,
-      "lesson": 13,
-      "chapter": 4,
-      "en": "Visible edge",
-      "vi": "Cạnh nhìn thấy",
-      "def": "The English term for “Cạnh nhìn thấy” in mathematics.",
-      "ex": "Find “Visible edge” in an English mathematics question."
-    },
-    {
-      "id": 185,
-      "lesson": 13,
-      "chapter": 4,
-      "en": "Hidden edge",
-      "vi": "Cạnh khuất",
-      "def": "The English term for “Cạnh khuất” in mathematics.",
-      "ex": "Find “Hidden edge” in an English mathematics question."
-    },
-    {
       "id": 186,
       "lesson": 14,
       "chapter": 5,
       "en": "Limit",
       "vi": "Giới hạn",
       "def": "The value that a function or sequence approaches.",
-      "ex": "The limit of 1/n as n grows is zero."
+      "ex": "The limit of the sequence \\(\\frac{1}{n}\\) as \\(n\\) approaches positive infinity is zero."
     },
     {
       "id": 187,
@@ -1861,53 +1144,8 @@
       "chapter": 5,
       "en": "Finite limit",
       "vi": "Giới hạn hữu hạn",
-      "def": "The English term for “Giới hạn hữu hạn” in mathematics.",
-      "ex": "Find “Finite limit” in an English mathematics question."
-    },
-    {
-      "id": 189,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Convergent sequence",
-      "vi": "Dãy số hội tụ",
-      "def": "The English term for “Dãy số hội tụ” in mathematics.",
-      "ex": "Find “Convergent sequence” in an English mathematics question."
-    },
-    {
-      "id": 190,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Divergent sequence",
-      "vi": "Dãy số phân kì",
-      "def": "The English term for “Dãy số phân kì” in mathematics.",
-      "ex": "Find “Divergent sequence” in an English mathematics question."
-    },
-    {
-      "id": 191,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Converge to",
-      "vi": "Hội tụ đến",
-      "def": "The English term for “Hội tụ đến” in mathematics.",
-      "ex": "Find “Converge to” in an English mathematics question."
-    },
-    {
-      "id": 192,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Convergence",
-      "vi": "Sự hội tụ",
-      "def": "The English term for “Sự hội tụ” in mathematics.",
-      "ex": "Find “Convergence” in an English mathematics question."
-    },
-    {
-      "id": 193,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Divergence",
-      "vi": "Sự phân kì",
-      "def": "The English term for “Sự phân kì” in mathematics.",
-      "ex": "Find “Divergence” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is said to have a limit \\(a\\) as \\(n\\to+\\infty\\) if\n\\[\n\\lim_{n\\to+\\infty}(u_n-a)=0.\n\\]\n\nThis is denoted by\n\\[\n\\lim_{n\\to+\\infty}u_n=a\n\\]\n\nor \\(u_n\\to a\\) as \\(n\\to+\\infty\\).",
+      "ex": "\\[\n\\lim_{n\\to+\\infty}\\frac{2n+1}{n}=2\n\\]\n\nThe limit of the sequence \\(\\displaystyle u_n=\\frac{2n+1}{n}\\) as \\(n\\) approaches positive infinity is 2."
     },
     {
       "id": 194,
@@ -1934,7 +1172,7 @@
       "en": "Infinity",
       "vi": "Vô cực",
       "def": "The English term for “Vô cực” in mathematics.",
-      "ex": "Find “Infinity” in an English mathematics question."
+      "ex": "\\[\n\\lim_{n\\to+\\infty}n=+\\infty\n\\]\n\nThe sequence \\(u_n=n\\) tends to positive infinity as \\(n\\) approaches positive infinity."
     },
     {
       "id": 197,
@@ -1942,7 +1180,7 @@
       "chapter": 5,
       "en": "Positive infinity",
       "vi": "Dương vô cực",
-      "def": "The English term for “Dương vô cực” in mathematics.",
+      "def": "Notation: \\(+\\infty\\)",
       "ex": "Find “Positive infinity” in an English mathematics question."
     },
     {
@@ -1951,7 +1189,7 @@
       "chapter": 5,
       "en": "Negative infinity",
       "vi": "Âm vô cực",
-      "def": "The English term for “Âm vô cực” in mathematics.",
+      "def": "Notation: \\(-\\infty\\)",
       "ex": "Find “Negative infinity” in an English mathematics question."
     },
     {
@@ -1960,8 +1198,8 @@
       "chapter": 5,
       "en": "Sequence tending to zero",
       "vi": "Dãy số có giới hạn bằng 0",
-      "def": "The English term for “Dãy số có giới hạn bằng 0” in mathematics.",
-      "ex": "Find “Sequence tending to zero” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is said to converge to zero as \\(n\\) approaches positive infinity if, for any arbitrarily small positive number, \\(|u_n|\\) is smaller than that number for all sufficiently large values of \\(n\\).\n\nThis is denoted by\n\\[\n\\lim_{n\\to+\\infty}u_n=0\n\\]\n\nor \\(u_n\\to0\\) as \\(n\\to+\\infty\\).",
+      "ex": "\\[\nu_n=\\frac{1}{n}\n\\]\n\n\\[\n\\lim_{n\\to+\\infty}\\frac{1}{n}=0\n\\]\n\nThe sequence \\(\\left(\\frac{1}{n}\\right)\\) tends to zero as \\(n\\) approaches positive infinity.\n\nDãy số \\(\\left(\\frac{1}{n}\\right)\\) có giới hạn bằng 0 khi \\(n\\) tiến tới dương vô cực."
     },
     {
       "id": 200,
@@ -1969,8 +1207,8 @@
       "chapter": 5,
       "en": "Sequence tending to positive infinity",
       "vi": "Dãy số có giới hạn +∞",
-      "def": "The English term for “Dãy số có giới hạn +∞” in mathematics.",
-      "ex": "Find “Sequence tending to positive infinity” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is said to tend to positive infinity as \\(n\\to+\\infty\\) if its terms become greater than any given positive number for all sufficiently large values of \\(n\\).\n\nThis is denoted by\n\\[\n\\lim_{n\\to+\\infty}u_n=+\\infty\n\\]\n\nor \\(u_n\\to+\\infty\\) as \\(n\\to+\\infty\\).",
+      "ex": "\\[\nu_n=2n+1\n\\]\n\n\\[\n\\lim_{n\\to+\\infty}(2n+1)=+\\infty\n\\]\n\nThe sequence \\((u_n)\\) tends to positive infinity as \\(n\\) approaches positive infinity."
     },
     {
       "id": 201,
@@ -1978,62 +1216,17 @@
       "chapter": 5,
       "en": "Sequence tending to negative infinity",
       "vi": "Dãy số có giới hạn −∞",
-      "def": "The English term for “Dãy số có giới hạn −∞” in mathematics.",
-      "ex": "Find “Sequence tending to negative infinity” in an English mathematics question."
-    },
-    {
-      "id": 202,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Limit laws",
-      "vi": "Các quy tắc tính giới hạn",
-      "def": "The English term for “Các quy tắc tính giới hạn” in mathematics.",
-      "ex": "Find “Limit laws” in an English mathematics question."
-    },
-    {
-      "id": 203,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Limit theorem",
-      "vi": "Định lí về giới hạn",
-      "def": "The English term for “Định lí về giới hạn” in mathematics.",
-      "ex": "Find “Limit theorem” in an English mathematics question."
-    },
-    {
-      "id": 204,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Infinite geometric sequence with abs(q) < 1",
-      "vi": "Cấp số nhân lùi vô hạn",
-      "def": "The English term for “Cấp số nhân lùi vô hạn” in mathematics.",
-      "ex": "Find “Infinite geometric sequence with abs(q) < 1” in an English mathematics question."
+      "def": "A sequence \\((u_n)\\) is said to tend to negative infinity as \\(n\\to+\\infty\\) if\n\\[\n\\lim_{n\\to+\\infty}(-u_n)=+\\infty.\n\\]\n\nThis is denoted by\n\\[\n\\lim_{n\\to+\\infty}u_n=-\\infty\n\\]\n\nor \\(u_n\\to-\\infty\\) as \\(n\\to+\\infty\\).",
+      "ex": "\\[\nu_n=-3n\n\\]\n\n\\[\n\\lim_{n\\to+\\infty}(-3n)=-\\infty\n\\]\n\nThe sequence \\((u_n)\\) tends to negative infinity as \\(n\\) approaches positive infinity."
     },
     {
       "id": 205,
       "lesson": 14,
       "chapter": 5,
-      "en": "Infinite geometric series",
-      "vi": "Tổng vô hạn các số hạng của một cấp số nhân",
-      "def": "The English term for “Tổng vô hạn các số hạng của một cấp số nhân” in mathematics.",
-      "ex": "Find “Infinite geometric series” in an English mathematics question."
-    },
-    {
-      "id": 206,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Sum to infinity",
-      "vi": "Tổng vô hạn, khi tổng đó tồn tại",
-      "def": "The English term for “Tổng vô hạn, khi tổng đó tồn tại” in mathematics.",
-      "ex": "Find “Sum to infinity” in an English mathematics question."
-    },
-    {
-      "id": 207,
-      "lesson": 14,
-      "chapter": 5,
-      "en": "Zeno’s paradox",
-      "vi": "Nghịch lí Zeno",
-      "def": "The English term for “Nghịch lí Zeno” in mathematics.",
-      "ex": "Find “Zeno’s paradox” in an English mathematics question."
+      "en": "Sum of an Infinite geometric series",
+      "vi": "Tổng của cấp số nhân lùi vô hạn.",
+      "def": "The sum of an infinite geometric series with first term \\(u_1\\) and common ratio \\(q\\), where \\(|q|<1\\), is the limit of the sum of its first \\(n\\) terms as \\(n\\) approaches positive infinity.\n\\[\n\\boxed{S=\\lim_{n\\to+\\infty}S_n=\\frac{u_1}{1-q},\\quad |q|<1}\n\\]",
+      "ex": "\\[\n1+\\frac12+\\frac14+\\frac18+\\cdots=2\n\\]\n\nThe sum of this infinite geometric series is 2."
     },
     {
       "id": 208,
@@ -2050,8 +1243,8 @@
       "chapter": 5,
       "en": "Limit at a point",
       "vi": "Giới hạn tại một điểm",
-      "def": "The English term for “Giới hạn tại một điểm” in mathematics.",
-      "ex": "Find “Limit at a point” in an English mathematics question."
+      "def": "Let \\((a,b)\\) be an open interval containing \\(x_0\\), and let \\(f(x)\\) be a function defined on \\((a,b)\\setminus\\{x_0\\}\\).\n\nThe function \\(f(x)\\) is said to have a limit \\(L\\) as \\(x\\) approaches \\(x_0\\) if, for every sequence \\((x_n)\\) in \\((a,b)\\setminus\\{x_0\\}\\) converging to \\(x_0\\), the sequence \\((f(x_n))\\) converges to \\(L\\).\n\nThis is denoted by\n\\[\n\\boxed{\\lim_{x\\to x_0}f(x)=L.}\n\\]",
+      "ex": "\\[\n\\lim_{x\\to 2}(3x+1)=7\n\\]\n\nThe limit of \\(f(x)=3x+1\\) as \\(x\\) approaches 2 is 7."
     },
     {
       "id": 210,
@@ -2068,8 +1261,8 @@
       "chapter": 5,
       "en": "Left-hand limit",
       "vi": "Giới hạn bên trái",
-      "def": "The English term for “Giới hạn bên trái” in mathematics.",
-      "ex": "Find “Left-hand limit” in an English mathematics question."
+      "def": "Let \\(f(x)\\) be a function defined on the interval \\((a,x_0)\\). A number \\(L\\) is called the left-hand limit of \\(f(x)\\) as \\(x\\) approaches \\(x_0\\) if, for every sequence \\((x_n)\\) satisfying\n\\[\na<x_n<x_0,\\qquad x_n\\to x_0,\n\\]\n\nwe have\n\\[\nf(x_n)\\to L.\n\\]\n\nThis is denoted by\n\\[\n\\boxed{\\lim_{x\\to x_0^-}f(x)=L.}\n\\]",
+      "ex": "Given the function\n\\[\nf(x)=x^2+1,\\quad x<2.\n\\]\n\nWe have\n\\[\n\\boxed{\\lim_{x\\to2^-}(x^2+1)=5}\n\\]\n\nThe left-hand limit of \\(f(x)\\) as \\(x\\) approaches 2 is 5."
     },
     {
       "id": 212,
@@ -2077,8 +1270,8 @@
       "chapter": 5,
       "en": "Right-hand limit",
       "vi": "Giới hạn bên phải",
-      "def": "The English term for “Giới hạn bên phải” in mathematics.",
-      "ex": "Find “Right-hand limit” in an English mathematics question."
+      "def": "Let \\(f(x)\\) be a function defined on the interval \\((x_0,b)\\). A number \\(L\\) is called the right-hand limit of \\(f(x)\\) as \\(x\\) approaches \\(x_0\\) if, for every sequence \\((x_n)\\) satisfying\n\\[\nx_0<x_n<b,\\qquad x_n\\to x_0,\n\\]\n\nwe have\n\\[\nf(x_n)\\to L.\n\\]\n\nThis is denoted by\n\\[\n\\boxed{\\lim_{x\\to x_0^+}f(x)=L.}\n\\]",
+      "ex": "Given the function\n\\[\nf(x)=2x+1,\\quad x>1.\n\\]\n\nWe have\n\\[\n\\boxed{\\lim_{x\\to1^+}(2x+1)=3}\n\\]"
     },
     {
       "id": 213,
@@ -2099,31 +1292,13 @@
       "ex": "Find “Infinite limit” in an English mathematics question."
     },
     {
-      "id": 215,
-      "lesson": 15,
-      "chapter": 5,
-      "en": "The limit exists",
-      "vi": "Giới hạn tồn tại",
-      "def": "The English term for “Giới hạn tồn tại” in mathematics.",
-      "ex": "Find “The limit exists” in an English mathematics question."
-    },
-    {
-      "id": 216,
-      "lesson": 15,
-      "chapter": 5,
-      "en": "The limit does not exist",
-      "vi": "Giới hạn không tồn tại",
-      "def": "The English term for “Giới hạn không tồn tại” in mathematics.",
-      "ex": "Find “The limit does not exist” in an English mathematics question."
-    },
-    {
       "id": 217,
       "lesson": 16,
       "chapter": 5,
       "en": "Continuous function",
       "vi": "Hàm số liên tục",
-      "def": "A function with no break at the point being considered.",
-      "ex": "The function y = x² is continuous everywhere."
+      "def": "Notation: \n\\[\n\\boxed{\\lim_{x\\to x_0}f(x)=f(x_0)}\n\\]",
+      "ex": "Given the function\n\\[\nf(x)=x^2+1.\n\\]\n\nWe have\n\\[\n\\lim_{x\\to2}f(x)=\\lim_{x\\to2}(x^2+1)=5\n\\]\n\nand\n\\[\nf(2)=5.\n\\]\n\nTherefore, \\(f(x)\\) is continuous at \\(x=2\\)."
     },
     {
       "id": 218,
@@ -3792,11 +2967,11 @@
     },
     {
       "id": 403,
-      "lesson": 1,
-      "en": "Cosine",
-      "vi": "Hàm số cosin",
-      "def": "The cosine function is periodic.",
-      "ex": "The cosine function is periodic."
+      "lesson": 8,
+      "en": "sample size",
+      "vi": "Cỡ mẫu",
+      "def": "The sample size is the total number of observations in a data sample.",
+      "ex": "A survey records the daily study time of 30 students. The data are divided into four groups with frequencies of 5, 8, 10, and 7. Therefore, the sample size is n=5+8+10+7=30."
     }
   ],
   "mathQuestions": [
