@@ -1,1 +1,36 @@
-<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#087bc2"><meta name="description" content="MathLingo: Learn Mathematics Through English — Grade 11, Semester I"><title>MathLingo · Mathematics Through English</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css"><script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script><script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script><link rel="stylesheet" href="style.css"></head><body><div id="app"><div class="loading">📘 MathLingo đang mở...</div></div><script src="data.js"></script><script src="app.js"></script><script data-goatcounter="https://mathlingo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script></body></html>
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#087bc2"><meta name="description" content="MathLingo: Learn Mathematics Through English — Grade 11, Semester I"><title>MathLingo · Mathematics Through English</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css"><script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script><script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script><link rel="stylesheet" href="style.css"></head><body><div id="app"><div class="loading">📘 MathLingo đang mở...</div></div><script src="data.js"></script><script src="app.js"></script>
+<!-- MathLingo public visitor counter. This is separate from the SPA mount point. -->
+<footer id="mathlingo-public-stats" aria-label="Website traffic statistics" style="padding:22px 16px 28px;text-align:center;border-top:1px solid #dce9f3;background:#f5f9ff;font:inherit;color:#375a76;">
+  <div style="font-size:14px;font-weight:700;color:#164f77;margin-bottom:10px;">👁 Website visits</div>
+  <div id="mathlingo-visitor-counter" aria-live="polite" style="display:flex;align-items:center;justify-content:center;min-height:60px;">
+    <span id="mathlingo-counter-wait" style="font-size:13px;color:#6c7f90;">Loading visitor count…</span>
+  </div>
+  <div style="font-size:12px;margin-top:9px;">Statistics by <a href="https://www.goatcounter.com/" target="_blank" rel="noopener noreferrer">GoatCounter</a></div>
+</footer>
+<script>
+// GoatCounter supplies the real count; never synthesize a value.
+function mathlingoShowVisitorCount() {
+  var target = document.getElementById('mathlingo-visitor-counter');
+  if (!target || target.dataset.loaded === 'yes') return;
+  if (!window.goatcounter || typeof window.goatcounter.visit_count !== 'function') {
+    target.textContent = 'Visitor count temporarily unavailable';
+    return;
+  }
+  target.dataset.loaded = 'yes';
+  target.textContent = '';
+  try {
+    window.goatcounter.visit_count({
+      append: '#mathlingo-visitor-counter',
+      path: 'TOTAL',
+      type: 'html',
+      no_branding: true,
+      style: 'div { background: #fff; color: #164f77; border-color: #cfe5f5; border-radius: 12px; } #gcvc-views { color: #006fba; font-weight: 800; }'
+    });
+  } catch (error) {
+    target.dataset.loaded = 'no';
+    target.textContent = 'Visitor count temporarily unavailable';
+    console.warn('GoatCounter visitor count could not load:', error);
+  }
+}
+</script>
+<script data-goatcounter="https://mathlingo.goatcounter.com/count" async src="https://gc.zgo.at/count.js" onload="mathlingoShowVisitorCount()" onerror="document.getElementById('mathlingo-visitor-counter').textContent='Visitor count temporarily unavailable'"></script></body></html>
