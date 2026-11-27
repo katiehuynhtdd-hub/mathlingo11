@@ -4,7 +4,7 @@ window.MATHLINGO_DATA = {
   "chapters": [
     {
       "id": 1,
-      "en": "TRIGONOMETRIC FUNCTIONS & EQUATIONS",
+      "en": "Trigonometric Functions and Trigonometric Equations",
       "vi": "Hàm số lượng giác và phương trình lượng giác",
       "lessons": [
         {
@@ -35,7 +35,7 @@ window.MATHLINGO_DATA = {
     },
     {
       "id": 2,
-      "en": "SEQUENCES & PROGRESSIONS",
+      "en": "Sequences, Arithmetic Sequences and Geometric Sequences",
       "vi": "Dãy số, cấp số cộng và cấp số nhân",
       "lessons": [
         {
@@ -60,7 +60,7 @@ window.MATHLINGO_DATA = {
     },
     {
       "id": 3,
-      "en": "GROUPED DATA & STATISTICS",
+      "en": "Measures of Central Tendency for Grouped Data",
       "vi": "Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
       "lessons": [
         {
@@ -79,7 +79,7 @@ window.MATHLINGO_DATA = {
     },
     {
       "id": 4,
-      "en": "PARALLELISM IN SPACE",
+      "en": "Parallel Relationships in Space",
       "vi": "Quan hệ song song trong không gian",
       "lessons": [
         {
@@ -116,7 +116,7 @@ window.MATHLINGO_DATA = {
     },
     {
       "id": 5,
-      "en": "LIMITS & CONTINUITY",
+      "en": "Limits and Continuous Functions",
       "vi": "Giới hạn và hàm số liên tục",
       "lessons": [
         {
